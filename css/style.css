@@ -1,0 +1,34 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("https://abrakadabra.fun/uploads/posts/2022-02/1644204947_2-abrakadabra-fun-p-beskonechnii-fon-2.jpg");
+    background-color: blanchedalmond;
+}
+
+.text-right{
+    text-align: right;
+}
+.tac {
+    text-align: center;
+}
+ul {
+    display: flex;
+    justify-content: flex-end;
+}
+ul li{
+    list-style-type: none;
+}
+.socials{
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
